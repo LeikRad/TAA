@@ -1,0 +1,16 @@
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyi
+*.pyw
+*.pyz
+*.pyzw
+*.ipynb_checkpoints/
+
+# Ignore venv files
+venv/
